@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Débora!
+# 👋 Olá, eu sou Débora Gomes!
 
 💻 **Desenvolvedora em evolução**, apaixonada por tecnologia e pelo desenvolvimento de soluções através da programação.
 
